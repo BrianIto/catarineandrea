@@ -8,7 +8,7 @@
     }
 </script>
 
-<div class="mx-5 md:mx-44 min-h-screen flex flex-col justify-center items-center">
+<div class="mx-5 md:mx-36 min-h-screen flex flex-col justify-center items-center">
     <h1 class="font-['Cinzel'] text-3xl md:text-5xl pt-5 text-center md:px-12 mb-5">Vamos Conversar?</h1>
     <div class="relative w-32 h-1 border-b mb-4"></div>
     <div class="flex lg:flex-row flex-col w-full items-center">
@@ -23,10 +23,11 @@
                 Enviar
             </button>
         </form>
-        <div class="flex-[2] lg:ml-12 mt-6 font-['Minion-Pro-Caption'] space-y-3 text-xl text-center lg:text-left">
-            <p class="flex items-center justify-center lg:justify-start"><i class="fas fa-location-dot"></i> &nbsp; Sorocaba/SP</p>
+        <div class="flex-[2] lg:ml-12 mt-6 font-['Minion-Pro-Caption'] space-y-3 text-md text-center lg:text-left">
+            <p class="flex items-center justify-center lg:justify-start "><i class="fas fa-location-dot"></i> &nbsp; Sorocaba/SP</p>
             <p class="flex items-center justify-center lg:justify-start"><i class="fas fa-phone"></i> &nbsp; (15) 3042-1851</p>
             <p class="flex items-center justify-center lg:justify-start"><i class="fas fa-envelope"></i> &nbsp; contabilcasantos@gmail.com</p>
+            <p class="flex items-center justify-center lg:justify-start"><i class="fas fa-envelope"></i> &nbsp; atendimento@catarinesantoscontabilidade.com</p>
             <p class="font-['Minion-Pro-Caption'] md:text-lg text-lg mt-10">Redes Sociais:</p>
             <div class="my-5">
                 <button
