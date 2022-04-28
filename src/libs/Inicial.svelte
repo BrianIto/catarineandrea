@@ -11,10 +11,10 @@
             fiscal</span> da empresa e fornece informações gerenciais para tornar possível as <span>melhores tomadas de decisões.</span>
     </p>
     <div class="text-center">
-        <button class="bg-white text-gray-800 py-3 font-bold px-12 mt-12 uppercase font-[Poppins] font-bold shadow-lg rounded">
+        <button on:click={() => {window.scrollTo({top: window.innerHeight * 3, behavior: "smooth"})}} class="bg-white text-gray-800 py-3 font-bold px-12 mt-12 uppercase font-[Poppins] font-bold shadow-lg rounded">
             Vamos Conversar?
         </button>
-        <button class="border-white text-white py-3 font-bold px-12 mt-12 uppercase font-[Poppins] font-bold shadow-lg rounded">
+        <button  on:click={() => {window.scrollTo({top: window.innerHeight + 50, behavior: "smooth"})}}  class="border-white text-white py-3 font-bold px-12 mt-12 uppercase font-[Poppins] font-bold shadow-lg rounded">
             Saiba Mais
         </button>
     </div>
