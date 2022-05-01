@@ -3,9 +3,7 @@
     <h1 class="font-['Cinzel'] text-3xl md:text-5xl pt-5 text-center md:px-12">Uma boa contabilidade resulta em boas
         decisões nos
         negócios</h1>
-    <p class="font-['Minion-Pro-Caption'] md:text-xl text-lg text-center mt-3">Ter uma acessoria contábil é tão
-        importante
-        quanto ter um médico:
+    <p class="font-['Minion-Pro-Caption'] md:text-xl text-lg text-center mt-3">
         A contabilidade é a grande responsável pelo controle da <span>saúde da empresa</span> e também o primeiro a
         sentir os sintomas de um possível desgaste ou crise. Além disso, também é importante para a <span>segurança
             fiscal</span> da empresa e fornece informações gerenciais para tornar possível as <span>melhores tomadas de decisões.</span>
