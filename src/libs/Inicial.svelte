@@ -4,9 +4,13 @@
         decisões nos
         negócios</h1>
     <p class="font-['Minion-Pro-Caption'] md:text-xl text-lg text-center mt-3">
-        A contabilidade é a grande responsável pelo controle da <span>saúde da empresa</span> e também o primeiro a
-        sentir os sintomas de um possível desgaste ou crise. Além disso, também é importante para a <span>segurança
-            fiscal</span> da empresa e fornece informações gerenciais para tornar possível as <span>melhores tomadas de decisões.</span>
+        Em qualquer área profissional ou empresa, dinheiro, tempo, preparo, planejamento e suporte são essenciais para o desenvolvimento da empresa.
+
+        Contadores produzem informações e diagnósticos necessários para que sua carreira se desenvolva de forma segura.
+
+        E além disso, essas informações são importantes para tomada de decisão de forma mais assertiva.
+
+        Contar com o apoio de uma contabilidade especializada é um diferencial para o sucesso do empreendimento, e o suporte qualificado do contador desde o início é essencial.
     </p>
     <div class="text-center">
         <button on:click={() => {window.scrollTo({top: window.innerHeight * 3, behavior: "smooth"})}} class="bg-white text-gray-800 py-3 font-bold px-12 mt-12 uppercase font-[Poppins] font-bold shadow-lg rounded">
