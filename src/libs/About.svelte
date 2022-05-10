@@ -12,7 +12,7 @@
                 e Pós Graduada em Gestão Pública pela Fundação Getúlio Vargas (FGV) e mestre em Controladoria e Finanças (MACKENZIE).
             </p>
             <p class="font-['Minion-Pro-Caption'] md:text-xl text-lg mt-3">Especialista em atendimento de profissionais liberais e autônomos (PF e PJ). Ofereço Contabilidade
-                Consultiva, com atendimento humanizado, e com relacionamento próximo ao cliente.
+                Consultiva, com atendimento humanizado, e com relacionamento próximo ao cliente. Faço a:
             </p>
             <ul class="list-disc ml-20 font-[Minion-Pro-Caption] md:text-xl text-lg space-y-2 mt-3">
                 <li>a contabilidade da
