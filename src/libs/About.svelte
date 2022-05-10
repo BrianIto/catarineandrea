@@ -9,9 +9,9 @@
             <p class="font-['Minion-Pro-Caption'] md:text-xl text-lg mt-3">
                 Formada em Administração pela Escola Superior de Administração, Marketing e Comunicação (ESAMC),
                 Contabilidade pela Fundação Instituto de Pesquisas Contábeis, Atuariais e Financeiras (FIPECAFI),
-                e Pós Graduada em Gestão Pública pela Fundação Getúlio Vargas (FGV) e mestre em Controladoria e Finanças.
+                e Pós Graduada em Gestão Pública pela Fundação Getúlio Vargas (FGV) e mestre em Controladoria e Finanças (MACKENZIE).
             </p>
-            <p class="font-['Minion-Pro-Caption'] md:text-xl text-lg mt-3">Sou especialista em atendimento de profissionais liberais e autônomos (PF e PJ). Ofereco Contabilidade
+            <p class="font-['Minion-Pro-Caption'] md:text-xl text-lg mt-3">Especialista em atendimento de profissionais liberais e autônomos (PF e PJ). Ofereço Contabilidade
                 Consultiva, com atendimento humanizado, e com relacionamento próximo ao cliente.
             </p>
             <ul class="list-disc ml-20 font-[Minion-Pro-Caption] md:text-xl text-lg space-y-2 mt-3">
